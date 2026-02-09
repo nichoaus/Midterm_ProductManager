@@ -10,5 +10,9 @@ package midterm_nicholson.midterm_productmanager;
  * @author Austin Nicholson
  */
 public class ProductManager {
+    
+    public int calculateDiscount() {
+        return 0;
+    }
 
 }
