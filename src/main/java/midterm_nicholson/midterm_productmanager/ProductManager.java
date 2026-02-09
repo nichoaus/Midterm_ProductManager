@@ -11,6 +11,7 @@ package midterm_nicholson.midterm_productmanager;
  */
 public class ProductManager {
     
+    // temporary placeholder for calculateDiscount method to assist ProductManager
     public int calculateDiscount() {
         return 0;
     }
